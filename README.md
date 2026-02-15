@@ -50,10 +50,10 @@ I love transforming real-world challenges into intelligent AI solutions 🚀
 
 ---
 
-## 🛠 Languages & Tools (Icons View)
+## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
