@@ -1,38 +1,32 @@
-# 👋 Hi, I'm Dikshita Sahare  
+![Profile Views](https://komarev.com/ghpvc/?username=dikshita-sahare08&color=blue)
 
-💻 Computer Science Postgraduate | AI & Deep Learning Enthusiast  
-🎓 Software Developer Intern @ Cojag Smart Technology Pvt. Ltd., Nagpur  
-📍 India  
+# 👋 Hi there, I'm Dikshita Sahare
 
----
-
-## 🚀 About Me
-
-I am a passionate aspiring Data Scientist with hands-on experience in Machine Learning, Deep Learning, and Computer Vision.  
-I enjoy building AI-powered solutions that solve real-world problems.
-
-🔭 Currently working on AI-based projects using Python  
-🌱 Exploring advanced Deep Learning and real-time Computer Vision systems  
-💡 Interested in AI model deployment and production-ready ML systems  
+💻 A passionate Computer Science postgraduate from India  
+🎓 Software Developer Intern @ Cojag Smart Technology Pvt. Ltd.  
+🔭 Currently focused on Machine Learning, Deep Learning & Computer Vision  
 
 ---
 
-## 💡 What Defines Me
+## 🚀 What Defines Me
 
-✔ Strong foundation in Python, Machine Learning & Deep Learning  
-✔ Built real-world projects (PPE Detection & Diabetic Retinopathy Diagnosis)  
-✔ Experience with CNN, YOLO, ResNet, EfficientNet  
-✔ Skilled in data preprocessing, model training & evaluation  
-✔ Developed AI web apps using Streamlit  
-✔ Fast learner & collaborative team player  
+✔ Skilled in building and training AI/ML models  
+✔ Experience in Computer Vision & Medical Image Classification  
+✔ Strong foundation in Python, CNN, YOLO, ResNet & EfficientNet  
+✔ Built real-world AI applications using Streamlit  
+✔ Passionate about solving real-world problems using AI  
 
 ---
 
 ## 💬 Ask Me About
 
-Machine Learning • Deep Learning • Computer Vision • Python • Streamlit  
+Python, Machine Learning, Deep Learning, Computer Vision, YOLO, CNN, Streamlit  
 
-📫 **Email:** dikshitasahare@gmail.com  
+📫 Reach Me At:  
+**dikshitasahare@gmail.com**
+
+⚡ Fun Fact:  
+I love transforming real-world challenges into intelligent AI solutions 🚀  
 
 ---
 
@@ -56,12 +50,16 @@ Machine Learning • Deep Learning • Computer Vision • Python • Streamlit
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Languages & Tools (Icons View)
 
-![](https://github-readme-stats.vercel.app/api?username=dikshita-sahare08&theme=radical&hide_border=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshita-sahare08&theme=radical&hide_border=true&layout=compact)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
-⭐ “Turning real-world challenges into intelligent AI solutions.”
+## 📊 GitHub Stats
+
+![Dikshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshita-sahare08&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshita-sahare08&layout=compact&theme=radical)
